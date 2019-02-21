@@ -1,4 +1,4 @@
-# hetzner-invoice-summary
+# hetzner-invoice-summary  
 ##Make hetzner invoice CSV files human readable
 
 If you scale an application on hetzner cloud by starting and destroying servers, you get very messy bills. This tiny script solves that problem.
